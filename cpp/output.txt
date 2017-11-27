@@ -1,0 +1,1021 @@
+Average patients arriving per hour: 20
+Patients processed per minute:      0.333333
+Simulation duration:                2880
+
+[   2.70] 0 processed &   1 arrivals in   2.70 minutes -   1 people currently waiting
+[   5.58] 1 processed &   0 arrivals in   2.87 minutes -   0 people currently waiting
+[  17.39] 0 processed &   1 arrivals in  11.81 minutes -   1 people currently waiting
+[  17.91] 1 processed &   0 arrivals in   0.51 minutes -   0 people currently waiting
+[  19.03] 0 processed &   1 arrivals in   1.12 minutes -   1 people currently waiting
+[  22.89] 1 processed &   1 arrivals in   3.86 minutes -   1 people currently waiting
+[  28.18] 1 processed &   3 arrivals in   5.29 minutes -   3 people currently waiting
+[  30.53] 1 processed &   0 arrivals in   2.35 minutes -   2 people currently waiting
+[  37.27] 1 processed &   2 arrivals in   6.74 minutes -   3 people currently waiting
+[  38.44] 1 processed &   0 arrivals in   1.17 minutes -   2 people currently waiting
+[  39.95] 1 processed &   0 arrivals in   1.51 minutes -   1 people currently waiting
+[  42.37] 1 processed &   0 arrivals in   2.42 minutes -   0 people currently waiting
+[  44.88] 0 processed &   1 arrivals in   2.51 minutes -   1 people currently waiting
+[  47.56] 1 processed &   1 arrivals in   2.69 minutes -   1 people currently waiting
+[  50.93] 1 processed &   1 arrivals in   3.36 minutes -   1 people currently waiting
+[  54.82] 1 processed &   2 arrivals in   3.90 minutes -   2 people currently waiting
+[  55.25] 1 processed &   0 arrivals in   0.43 minutes -   1 people currently waiting
+[  55.99] 1 processed &   1 arrivals in   0.74 minutes -   1 people currently waiting
+[  59.71] 1 processed &   1 arrivals in   3.71 minutes -   1 people currently waiting
+[  61.16] 1 processed &   1 arrivals in   1.45 minutes -   1 people currently waiting
+[  68.58] 1 processed &   2 arrivals in   7.42 minutes -   2 people currently waiting
+[  73.69] 1 processed &   5 arrivals in   5.12 minutes -   6 people currently waiting
+[  80.51] 1 processed &   3 arrivals in   6.81 minutes -   8 people currently waiting
+[  87.28] 1 processed &   3 arrivals in   6.77 minutes -  10 people currently waiting
+[  98.30] 1 processed &   3 arrivals in  11.02 minutes -  12 people currently waiting
+[ 112.38] 1 processed &   4 arrivals in  14.08 minutes -  15 people currently waiting
+[ 116.76] 1 processed &   0 arrivals in   4.38 minutes -  14 people currently waiting
+[ 118.47] 1 processed &   1 arrivals in   1.71 minutes -  14 people currently waiting
+[ 120.38] 1 processed &   0 arrivals in   1.91 minutes -  13 people currently waiting
+[ 121.40] 1 processed &   0 arrivals in   1.02 minutes -  12 people currently waiting
+[ 130.38] 1 processed &   2 arrivals in   8.98 minutes -  13 people currently waiting
+[ 131.13] 1 processed &   1 arrivals in   0.75 minutes -  13 people currently waiting
+[ 133.69] 1 processed &   2 arrivals in   2.56 minutes -  14 people currently waiting
+[ 147.64] 1 processed &   3 arrivals in  13.95 minutes -  16 people currently waiting
+[ 153.21] 1 processed &   1 arrivals in   5.57 minutes -  16 people currently waiting
+[ 155.34] 1 processed &   1 arrivals in   2.13 minutes -  16 people currently waiting
+[ 155.47] 1 processed &   0 arrivals in   0.13 minutes -  15 people currently waiting
+[ 155.51] 1 processed &   0 arrivals in   0.05 minutes -  14 people currently waiting
+[ 157.07] 1 processed &   0 arrivals in   1.56 minutes -  13 people currently waiting
+[ 158.22] 1 processed &   0 arrivals in   1.15 minutes -  12 people currently waiting
+[ 161.45] 1 processed &   2 arrivals in   3.23 minutes -  13 people currently waiting
+[ 162.78] 1 processed &   1 arrivals in   1.33 minutes -  13 people currently waiting
+[ 175.71] 1 processed &   5 arrivals in  12.94 minutes -  17 people currently waiting
+[ 176.12] 1 processed &   0 arrivals in   0.40 minutes -  16 people currently waiting
+[ 176.66] 1 processed &   0 arrivals in   0.54 minutes -  15 people currently waiting
+[ 177.77] 1 processed &   0 arrivals in   1.11 minutes -  14 people currently waiting
+[ 179.17] 1 processed &   0 arrivals in   1.39 minutes -  13 people currently waiting
+[ 179.31] 1 processed &   0 arrivals in   0.15 minutes -  12 people currently waiting
+[ 180.61] 1 processed &   1 arrivals in   1.30 minutes -  12 people currently waiting
+[ 185.02] 1 processed &   1 arrivals in   4.40 minutes -  12 people currently waiting
+[ 187.62] 1 processed &   1 arrivals in   2.60 minutes -  12 people currently waiting
+[ 187.80] 1 processed &   0 arrivals in   0.18 minutes -  11 people currently waiting
+[ 188.47] 1 processed &   0 arrivals in   0.67 minutes -  10 people currently waiting
+[ 193.06] 1 processed &   2 arrivals in   4.59 minutes -  11 people currently waiting
+[ 193.87] 1 processed &   0 arrivals in   0.82 minutes -  10 people currently waiting
+[ 196.02] 1 processed &   1 arrivals in   2.15 minutes -  10 people currently waiting
+[ 197.90] 1 processed &   1 arrivals in   1.88 minutes -  10 people currently waiting
+[ 202.54] 1 processed &   3 arrivals in   4.64 minutes -  12 people currently waiting
+[ 204.17] 1 processed &   1 arrivals in   1.63 minutes -  12 people currently waiting
+[ 205.54] 1 processed &   0 arrivals in   1.37 minutes -  11 people currently waiting
+[ 207.21] 1 processed &   2 arrivals in   1.68 minutes -  12 people currently waiting
+[ 212.96] 1 processed &   2 arrivals in   5.75 minutes -  13 people currently waiting
+[ 217.20] 1 processed &   2 arrivals in   4.25 minutes -  14 people currently waiting
+[ 217.32] 1 processed &   0 arrivals in   0.11 minutes -  13 people currently waiting
+[ 222.40] 1 processed &   3 arrivals in   5.09 minutes -  15 people currently waiting
+[ 224.66] 1 processed &   0 arrivals in   2.26 minutes -  14 people currently waiting
+[ 229.90] 1 processed &   2 arrivals in   5.24 minutes -  15 people currently waiting
+[ 233.93] 1 processed &   2 arrivals in   4.03 minutes -  16 people currently waiting
+[ 235.07] 1 processed &   0 arrivals in   1.13 minutes -  15 people currently waiting
+[ 235.12] 1 processed &   0 arrivals in   0.06 minutes -  14 people currently waiting
+[ 237.26] 1 processed &   1 arrivals in   2.14 minutes -  14 people currently waiting
+[ 244.29] 1 processed &   2 arrivals in   7.03 minutes -  15 people currently waiting
+[ 244.74] 1 processed &   0 arrivals in   0.45 minutes -  14 people currently waiting
+[ 251.34] 1 processed &   1 arrivals in   6.60 minutes -  14 people currently waiting
+[ 251.52] 1 processed &   0 arrivals in   0.18 minutes -  13 people currently waiting
+[ 251.78] 1 processed &   0 arrivals in   0.26 minutes -  12 people currently waiting
+[ 253.84] 1 processed &   2 arrivals in   2.06 minutes -  13 people currently waiting
+[ 255.15] 1 processed &   0 arrivals in   1.31 minutes -  12 people currently waiting
+[ 255.44] 1 processed &   0 arrivals in   0.29 minutes -  11 people currently waiting
+[ 257.45] 1 processed &   1 arrivals in   2.01 minutes -  11 people currently waiting
+[ 257.87] 1 processed &   0 arrivals in   0.42 minutes -  10 people currently waiting
+[ 259.45] 1 processed &   0 arrivals in   1.58 minutes -   9 people currently waiting
+[ 261.97] 1 processed &   2 arrivals in   2.52 minutes -  10 people currently waiting
+[ 267.64] 1 processed &   3 arrivals in   5.68 minutes -  12 people currently waiting
+[ 271.63] 1 processed &   1 arrivals in   3.99 minutes -  12 people currently waiting
+[ 274.70] 1 processed &   0 arrivals in   3.07 minutes -  11 people currently waiting
+[ 275.38] 1 processed &   0 arrivals in   0.68 minutes -  10 people currently waiting
+[ 275.78] 1 processed &   0 arrivals in   0.39 minutes -   9 people currently waiting
+[ 281.88] 1 processed &   3 arrivals in   6.10 minutes -  11 people currently waiting
+[ 282.94] 1 processed &   0 arrivals in   1.06 minutes -  10 people currently waiting
+[ 286.38] 1 processed &   1 arrivals in   3.44 minutes -  10 people currently waiting
+[ 289.06] 1 processed &   2 arrivals in   2.68 minutes -  11 people currently waiting
+[ 290.71] 1 processed &   1 arrivals in   1.65 minutes -  11 people currently waiting
+[ 292.50] 1 processed &   2 arrivals in   1.79 minutes -  12 people currently waiting
+[ 300.21] 1 processed &   4 arrivals in   7.70 minutes -  15 people currently waiting
+[ 300.97] 1 processed &   0 arrivals in   0.76 minutes -  14 people currently waiting
+[ 305.00] 1 processed &   0 arrivals in   4.03 minutes -  13 people currently waiting
+[ 311.52] 1 processed &   1 arrivals in   6.52 minutes -  13 people currently waiting
+[ 312.23] 1 processed &   1 arrivals in   0.71 minutes -  13 people currently waiting
+[ 319.23] 1 processed &   2 arrivals in   7.00 minutes -  14 people currently waiting
+[ 320.02] 1 processed &   0 arrivals in   0.79 minutes -  13 people currently waiting
+[ 325.71] 1 processed &   1 arrivals in   5.69 minutes -  13 people currently waiting
+[ 329.26] 1 processed &   1 arrivals in   3.55 minutes -  13 people currently waiting
+[ 332.49] 1 processed &   2 arrivals in   3.23 minutes -  14 people currently waiting
+[ 333.76] 1 processed &   0 arrivals in   1.27 minutes -  13 people currently waiting
+[ 333.92] 1 processed &   0 arrivals in   0.16 minutes -  12 people currently waiting
+[ 334.30] 1 processed &   0 arrivals in   0.37 minutes -  11 people currently waiting
+[ 335.90] 1 processed &   0 arrivals in   1.61 minutes -  10 people currently waiting
+[ 343.14] 1 processed &   3 arrivals in   7.24 minutes -  12 people currently waiting
+[ 345.02] 1 processed &   1 arrivals in   1.88 minutes -  12 people currently waiting
+[ 354.87] 1 processed &   5 arrivals in   9.86 minutes -  16 people currently waiting
+[ 356.49] 1 processed &   1 arrivals in   1.61 minutes -  16 people currently waiting
+[ 358.64] 1 processed &   0 arrivals in   2.15 minutes -  15 people currently waiting
+[ 360.37] 1 processed &   1 arrivals in   1.73 minutes -  15 people currently waiting
+[ 365.20] 1 processed &   2 arrivals in   4.82 minutes -  16 people currently waiting
+[ 365.33] 1 processed &   1 arrivals in   0.14 minutes -  16 people currently waiting
+[ 365.87] 1 processed &   0 arrivals in   0.53 minutes -  15 people currently waiting
+[ 368.27] 1 processed &   1 arrivals in   2.40 minutes -  15 people currently waiting
+[ 368.30] 1 processed &   0 arrivals in   0.03 minutes -  14 people currently waiting
+[ 380.04] 1 processed &   3 arrivals in  11.73 minutes -  16 people currently waiting
+[ 380.17] 1 processed &   0 arrivals in   0.13 minutes -  15 people currently waiting
+[ 383.33] 1 processed &   3 arrivals in   3.16 minutes -  17 people currently waiting
+[ 385.19] 1 processed &   3 arrivals in   1.86 minutes -  19 people currently waiting
+[ 389.23] 1 processed &   1 arrivals in   4.05 minutes -  19 people currently waiting
+[ 394.93] 1 processed &   1 arrivals in   5.70 minutes -  19 people currently waiting
+[ 396.78] 1 processed &   0 arrivals in   1.85 minutes -  18 people currently waiting
+[ 397.61] 1 processed &   0 arrivals in   0.82 minutes -  17 people currently waiting
+[ 403.50] 1 processed &   1 arrivals in   5.89 minutes -  17 people currently waiting
+[ 405.90] 1 processed &   0 arrivals in   2.40 minutes -  16 people currently waiting
+[ 406.00] 1 processed &   0 arrivals in   0.10 minutes -  15 people currently waiting
+[ 406.60] 1 processed &   0 arrivals in   0.60 minutes -  14 people currently waiting
+[ 407.30] 1 processed &   2 arrivals in   0.70 minutes -  15 people currently waiting
+[ 413.22] 1 processed &   4 arrivals in   5.92 minutes -  18 people currently waiting
+[ 414.12] 1 processed &   0 arrivals in   0.90 minutes -  17 people currently waiting
+[ 414.94] 1 processed &   0 arrivals in   0.83 minutes -  16 people currently waiting
+[ 416.16] 1 processed &   0 arrivals in   1.21 minutes -  15 people currently waiting
+[ 416.32] 1 processed &   0 arrivals in   0.16 minutes -  14 people currently waiting
+[ 416.73] 1 processed &   0 arrivals in   0.42 minutes -  13 people currently waiting
+[ 416.89] 1 processed &   0 arrivals in   0.16 minutes -  12 people currently waiting
+[ 417.95] 1 processed &   1 arrivals in   1.05 minutes -  12 people currently waiting
+[ 417.98] 1 processed &   0 arrivals in   0.03 minutes -  11 people currently waiting
+[ 418.19] 1 processed &   0 arrivals in   0.21 minutes -  10 people currently waiting
+[ 419.35] 1 processed &   0 arrivals in   1.16 minutes -   9 people currently waiting
+[ 437.91] 1 processed &   6 arrivals in  18.55 minutes -  14 people currently waiting
+[ 441.27] 1 processed &   2 arrivals in   3.36 minutes -  15 people currently waiting
+[ 442.29] 1 processed &   0 arrivals in   1.02 minutes -  14 people currently waiting
+[ 450.17] 1 processed &   1 arrivals in   7.88 minutes -  14 people currently waiting
+[ 450.44] 1 processed &   1 arrivals in   0.27 minutes -  14 people currently waiting
+[ 451.62] 1 processed &   0 arrivals in   1.18 minutes -  13 people currently waiting
+[ 461.35] 1 processed &   4 arrivals in   9.73 minutes -  16 people currently waiting
+[ 464.76] 1 processed &   0 arrivals in   3.41 minutes -  15 people currently waiting
+[ 467.91] 1 processed &   0 arrivals in   3.15 minutes -  14 people currently waiting
+[ 488.12] 1 processed &  10 arrivals in  20.20 minutes -  23 people currently waiting
+[ 492.04] 1 processed &   0 arrivals in   3.92 minutes -  22 people currently waiting
+[ 494.35] 1 processed &   0 arrivals in   2.31 minutes -  21 people currently waiting
+[ 499.41] 1 processed &   3 arrivals in   5.06 minutes -  23 people currently waiting
+[ 500.53] 1 processed &   0 arrivals in   1.12 minutes -  22 people currently waiting
+[ 503.81] 1 processed &   0 arrivals in   3.29 minutes -  21 people currently waiting
+[ 508.99] 1 processed &   2 arrivals in   5.18 minutes -  22 people currently waiting
+[ 515.14] 1 processed &   0 arrivals in   6.15 minutes -  21 people currently waiting
+[ 516.65] 1 processed &   1 arrivals in   1.51 minutes -  21 people currently waiting
+[ 519.56] 1 processed &   1 arrivals in   2.92 minutes -  21 people currently waiting
+[ 522.23] 1 processed &   0 arrivals in   2.66 minutes -  20 people currently waiting
+[ 523.41] 1 processed &   1 arrivals in   1.18 minutes -  20 people currently waiting
+[ 525.15] 1 processed &   0 arrivals in   1.74 minutes -  19 people currently waiting
+[ 525.68] 1 processed &   0 arrivals in   0.53 minutes -  18 people currently waiting
+[ 525.77] 1 processed &   0 arrivals in   0.09 minutes -  17 people currently waiting
+[ 526.42] 1 processed &   0 arrivals in   0.64 minutes -  16 people currently waiting
+[ 528.86] 1 processed &   1 arrivals in   2.45 minutes -  16 people currently waiting
+[ 530.12] 1 processed &   0 arrivals in   1.25 minutes -  15 people currently waiting
+[ 533.20] 1 processed &   0 arrivals in   3.09 minutes -  14 people currently waiting
+[ 535.13] 1 processed &   0 arrivals in   1.92 minutes -  13 people currently waiting
+[ 538.39] 1 processed &   2 arrivals in   3.26 minutes -  14 people currently waiting
+[ 539.72] 1 processed &   0 arrivals in   1.33 minutes -  13 people currently waiting
+[ 539.80] 1 processed &   0 arrivals in   0.08 minutes -  12 people currently waiting
+[ 540.71] 1 processed &   2 arrivals in   0.91 minutes -  13 people currently waiting
+[ 542.09] 1 processed &   1 arrivals in   1.37 minutes -  13 people currently waiting
+[ 542.29] 1 processed &   0 arrivals in   0.20 minutes -  12 people currently waiting
+[ 543.85] 1 processed &   1 arrivals in   1.56 minutes -  12 people currently waiting
+[ 544.87] 1 processed &   0 arrivals in   1.02 minutes -  11 people currently waiting
+[ 545.59] 1 processed &   0 arrivals in   0.73 minutes -  10 people currently waiting
+[ 551.65] 1 processed &   4 arrivals in   6.05 minutes -  13 people currently waiting
+[ 555.50] 1 processed &   1 arrivals in   3.86 minutes -  13 people currently waiting
+[ 561.73] 1 processed &   1 arrivals in   6.22 minutes -  13 people currently waiting
+[ 563.41] 1 processed &   0 arrivals in   1.68 minutes -  12 people currently waiting
+[ 565.44] 1 processed &   1 arrivals in   2.03 minutes -  12 people currently waiting
+[ 565.61] 1 processed &   0 arrivals in   0.17 minutes -  11 people currently waiting
+[ 568.09] 1 processed &   1 arrivals in   2.48 minutes -  11 people currently waiting
+[ 568.16] 1 processed &   0 arrivals in   0.07 minutes -  10 people currently waiting
+[ 570.57] 1 processed &   0 arrivals in   2.41 minutes -   9 people currently waiting
+[ 580.92] 1 processed &   2 arrivals in  10.35 minutes -  10 people currently waiting
+[ 581.35] 1 processed &   0 arrivals in   0.43 minutes -   9 people currently waiting
+[ 582.33] 1 processed &   1 arrivals in   0.97 minutes -   9 people currently waiting
+[ 584.03] 1 processed &   2 arrivals in   1.70 minutes -  10 people currently waiting
+[ 584.30] 1 processed &   0 arrivals in   0.28 minutes -   9 people currently waiting
+[ 585.25] 1 processed &   0 arrivals in   0.95 minutes -   8 people currently waiting
+[ 592.77] 1 processed &   3 arrivals in   7.52 minutes -  10 people currently waiting
+[ 598.27] 1 processed &   3 arrivals in   5.49 minutes -  12 people currently waiting
+[ 599.92] 1 processed &   0 arrivals in   1.65 minutes -  11 people currently waiting
+[ 600.45] 1 processed &   0 arrivals in   0.53 minutes -  10 people currently waiting
+[ 601.47] 1 processed &   0 arrivals in   1.02 minutes -   9 people currently waiting
+[ 603.67] 1 processed &   0 arrivals in   2.20 minutes -   8 people currently waiting
+[ 603.89] 1 processed &   0 arrivals in   0.22 minutes -   7 people currently waiting
+[ 610.51] 1 processed &   1 arrivals in   6.62 minutes -   7 people currently waiting
+[ 614.80] 1 processed &   1 arrivals in   4.30 minutes -   7 people currently waiting
+[ 614.93] 1 processed &   0 arrivals in   0.12 minutes -   6 people currently waiting
+[ 620.37] 1 processed &   1 arrivals in   5.45 minutes -   6 people currently waiting
+[ 623.09] 1 processed &   1 arrivals in   2.71 minutes -   6 people currently waiting
+[ 626.68] 1 processed &   0 arrivals in   3.59 minutes -   5 people currently waiting
+[ 627.09] 1 processed &   0 arrivals in   0.41 minutes -   4 people currently waiting
+[ 629.67] 1 processed &   1 arrivals in   2.59 minutes -   4 people currently waiting
+[ 637.08] 1 processed &   1 arrivals in   7.41 minutes -   4 people currently waiting
+[ 642.23] 1 processed &   0 arrivals in   5.15 minutes -   3 people currently waiting
+[ 643.08] 1 processed &   0 arrivals in   0.85 minutes -   2 people currently waiting
+[ 646.61] 1 processed &   2 arrivals in   3.53 minutes -   3 people currently waiting
+[ 648.59] 1 processed &   0 arrivals in   1.98 minutes -   2 people currently waiting
+[ 650.06] 1 processed &   1 arrivals in   1.46 minutes -   2 people currently waiting
+[ 653.38] 1 processed &   2 arrivals in   3.33 minutes -   3 people currently waiting
+[ 660.62] 1 processed &   3 arrivals in   7.23 minutes -   5 people currently waiting
+[ 668.35] 1 processed &   2 arrivals in   7.73 minutes -   6 people currently waiting
+[ 670.45] 1 processed &   0 arrivals in   2.10 minutes -   5 people currently waiting
+[ 671.32] 1 processed &   2 arrivals in   0.88 minutes -   6 people currently waiting
+[ 673.63] 1 processed &   0 arrivals in   2.31 minutes -   5 people currently waiting
+[ 678.57] 1 processed &   0 arrivals in   4.93 minutes -   4 people currently waiting
+[ 678.95] 1 processed &   0 arrivals in   0.38 minutes -   3 people currently waiting
+[ 679.69] 1 processed &   0 arrivals in   0.73 minutes -   2 people currently waiting
+[ 681.66] 1 processed &   1 arrivals in   1.98 minutes -   2 people currently waiting
+[ 682.01] 1 processed &   1 arrivals in   0.35 minutes -   2 people currently waiting
+[ 683.57] 1 processed &   0 arrivals in   1.56 minutes -   1 people currently waiting
+[ 688.04] 1 processed &   0 arrivals in   4.46 minutes -   0 people currently waiting
+[ 688.08] 0 processed &   1 arrivals in   0.04 minutes -   1 people currently waiting
+[ 691.33] 1 processed &   0 arrivals in   3.25 minutes -   0 people currently waiting
+[ 693.14] 0 processed &   1 arrivals in   1.81 minutes -   1 people currently waiting
+[ 695.66] 1 processed &   3 arrivals in   2.52 minutes -   3 people currently waiting
+[ 699.21] 1 processed &   1 arrivals in   3.55 minutes -   3 people currently waiting
+[ 699.35] 1 processed &   0 arrivals in   0.14 minutes -   2 people currently waiting
+[ 703.44] 1 processed &   2 arrivals in   4.09 minutes -   3 people currently waiting
+[ 707.11] 1 processed &   2 arrivals in   3.67 minutes -   4 people currently waiting
+[ 708.58] 1 processed &   0 arrivals in   1.47 minutes -   3 people currently waiting
+[ 711.86] 1 processed &   3 arrivals in   3.28 minutes -   5 people currently waiting
+[ 714.94] 1 processed &   0 arrivals in   3.08 minutes -   4 people currently waiting
+[ 715.69] 1 processed &   0 arrivals in   0.75 minutes -   3 people currently waiting
+[ 715.79] 1 processed &   0 arrivals in   0.10 minutes -   2 people currently waiting
+[ 717.12] 1 processed &   0 arrivals in   1.33 minutes -   1 people currently waiting
+[ 717.42] 1 processed &   0 arrivals in   0.30 minutes -   0 people currently waiting
+[ 723.23] 0 processed &   1 arrivals in   5.81 minutes -   1 people currently waiting
+[ 728.09] 1 processed &   3 arrivals in   4.86 minutes -   3 people currently waiting
+[ 735.44] 1 processed &   4 arrivals in   7.35 minutes -   6 people currently waiting
+[ 738.03] 1 processed &   1 arrivals in   2.59 minutes -   6 people currently waiting
+[ 739.56] 1 processed &   0 arrivals in   1.53 minutes -   5 people currently waiting
+[ 741.84] 1 processed &   3 arrivals in   2.28 minutes -   7 people currently waiting
+[ 742.00] 1 processed &   0 arrivals in   0.16 minutes -   6 people currently waiting
+[ 742.02] 1 processed &   0 arrivals in   0.02 minutes -   5 people currently waiting
+[ 744.02] 1 processed &   1 arrivals in   2.00 minutes -   5 people currently waiting
+[ 747.17] 1 processed &   1 arrivals in   3.15 minutes -   5 people currently waiting
+[ 750.17] 1 processed &   1 arrivals in   3.00 minutes -   5 people currently waiting
+[ 751.30] 1 processed &   0 arrivals in   1.14 minutes -   4 people currently waiting
+[ 752.49] 1 processed &   0 arrivals in   1.18 minutes -   3 people currently waiting
+[ 756.34] 1 processed &   3 arrivals in   3.85 minutes -   5 people currently waiting
+[ 758.64] 1 processed &   0 arrivals in   2.30 minutes -   4 people currently waiting
+[ 760.58] 1 processed &   1 arrivals in   1.94 minutes -   4 people currently waiting
+[ 765.17] 1 processed &   2 arrivals in   4.58 minutes -   5 people currently waiting
+[ 770.38] 1 processed &   0 arrivals in   5.21 minutes -   4 people currently waiting
+[ 770.50] 1 processed &   0 arrivals in   0.12 minutes -   3 people currently waiting
+[ 775.15] 1 processed &   2 arrivals in   4.64 minutes -   4 people currently waiting
+[ 778.18] 1 processed &   0 arrivals in   3.03 minutes -   3 people currently waiting
+[ 778.49] 1 processed &   0 arrivals in   0.32 minutes -   2 people currently waiting
+[ 779.59] 1 processed &   1 arrivals in   1.10 minutes -   2 people currently waiting
+[ 787.73] 1 processed &   0 arrivals in   8.13 minutes -   1 people currently waiting
+[ 793.34] 1 processed &   4 arrivals in   5.62 minutes -   4 people currently waiting
+[ 796.06] 1 processed &   1 arrivals in   2.72 minutes -   4 people currently waiting
+[ 797.89] 1 processed &   1 arrivals in   1.83 minutes -   4 people currently waiting
+[ 802.58] 1 processed &   0 arrivals in   4.68 minutes -   3 people currently waiting
+[ 810.32] 1 processed &   4 arrivals in   7.74 minutes -   6 people currently waiting
+[ 810.65] 1 processed &   0 arrivals in   0.33 minutes -   5 people currently waiting
+[ 812.10] 1 processed &   1 arrivals in   1.45 minutes -   5 people currently waiting
+[ 812.66] 1 processed &   0 arrivals in   0.56 minutes -   4 people currently waiting
+[ 814.31] 1 processed &   2 arrivals in   1.65 minutes -   5 people currently waiting
+[ 815.60] 1 processed &   0 arrivals in   1.30 minutes -   4 people currently waiting
+[ 821.33] 1 processed &   2 arrivals in   5.73 minutes -   5 people currently waiting
+[ 822.46] 1 processed &   0 arrivals in   1.13 minutes -   4 people currently waiting
+[ 823.17] 1 processed &   0 arrivals in   0.70 minutes -   3 people currently waiting
+[ 824.50] 1 processed &   0 arrivals in   1.33 minutes -   2 people currently waiting
+[ 826.56] 1 processed &   0 arrivals in   2.06 minutes -   1 people currently waiting
+[ 829.28] 1 processed &   1 arrivals in   2.72 minutes -   1 people currently waiting
+[ 831.14] 1 processed &   0 arrivals in   1.87 minutes -   0 people currently waiting
+[ 834.54] 0 processed &   1 arrivals in   3.40 minutes -   1 people currently waiting
+[ 835.86] 1 processed &   0 arrivals in   1.32 minutes -   0 people currently waiting
+[ 842.76] 0 processed &   1 arrivals in   6.90 minutes -   1 people currently waiting
+[ 848.25] 1 processed &   0 arrivals in   5.49 minutes -   0 people currently waiting
+[ 853.02] 0 processed &   1 arrivals in   4.76 minutes -   1 people currently waiting
+[ 855.13] 1 processed &   0 arrivals in   2.12 minutes -   0 people currently waiting
+[ 859.87] 0 processed &   1 arrivals in   4.74 minutes -   1 people currently waiting
+[ 861.72] 1 processed &   2 arrivals in   1.85 minutes -   2 people currently waiting
+[ 864.75] 1 processed &   1 arrivals in   3.02 minutes -   2 people currently waiting
+[ 865.12] 1 processed &   0 arrivals in   0.38 minutes -   1 people currently waiting
+[ 871.45] 1 processed &   1 arrivals in   6.33 minutes -   1 people currently waiting
+[ 871.57] 1 processed &   0 arrivals in   0.12 minutes -   0 people currently waiting
+[ 872.26] 0 processed &   1 arrivals in   0.69 minutes -   1 people currently waiting
+[ 877.54] 1 processed &   0 arrivals in   5.28 minutes -   0 people currently waiting
+[ 879.71] 0 processed &   1 arrivals in   2.17 minutes -   1 people currently waiting
+[ 882.82] 1 processed &   2 arrivals in   3.11 minutes -   2 people currently waiting
+[ 884.15] 1 processed &   1 arrivals in   1.33 minutes -   2 people currently waiting
+[ 891.73] 1 processed &   1 arrivals in   7.58 minutes -   2 people currently waiting
+[ 898.29] 1 processed &   1 arrivals in   6.56 minutes -   2 people currently waiting
+[ 901.99] 1 processed &   0 arrivals in   3.70 minutes -   1 people currently waiting
+[ 903.93] 1 processed &   0 arrivals in   1.94 minutes -   0 people currently waiting
+[ 907.05] 0 processed &   1 arrivals in   3.12 minutes -   1 people currently waiting
+[ 909.07] 1 processed &   0 arrivals in   2.02 minutes -   0 people currently waiting
+[ 909.40] 0 processed &   1 arrivals in   0.33 minutes -   1 people currently waiting
+[ 915.02] 1 processed &   3 arrivals in   5.62 minutes -   3 people currently waiting
+[ 915.94] 1 processed &   0 arrivals in   0.92 minutes -   2 people currently waiting
+[ 931.95] 1 processed &   6 arrivals in  16.01 minutes -   7 people currently waiting
+[ 933.96] 1 processed &   2 arrivals in   2.01 minutes -   8 people currently waiting
+[ 934.72] 1 processed &   0 arrivals in   0.76 minutes -   7 people currently waiting
+[ 934.75] 1 processed &   0 arrivals in   0.03 minutes -   6 people currently waiting
+[ 935.28] 1 processed &   0 arrivals in   0.54 minutes -   5 people currently waiting
+[ 935.47] 1 processed &   0 arrivals in   0.18 minutes -   4 people currently waiting
+[ 938.71] 1 processed &   1 arrivals in   3.24 minutes -   4 people currently waiting
+[ 943.53] 1 processed &   0 arrivals in   4.82 minutes -   3 people currently waiting
+[ 943.89] 1 processed &   0 arrivals in   0.36 minutes -   2 people currently waiting
+[ 946.36] 1 processed &   0 arrivals in   2.47 minutes -   1 people currently waiting
+[ 946.72] 1 processed &   1 arrivals in   0.36 minutes -   1 people currently waiting
+[ 949.30] 1 processed &   0 arrivals in   2.57 minutes -   0 people currently waiting
+[ 950.16] 0 processed &   1 arrivals in   0.86 minutes -   1 people currently waiting
+[ 951.20] 1 processed &   0 arrivals in   1.04 minutes -   0 people currently waiting
+[ 953.54] 0 processed &   1 arrivals in   2.34 minutes -   1 people currently waiting
+[ 953.94] 1 processed &   0 arrivals in   0.40 minutes -   0 people currently waiting
+[ 960.17] 0 processed &   1 arrivals in   6.24 minutes -   1 people currently waiting
+[ 960.20] 1 processed &   0 arrivals in   0.03 minutes -   0 people currently waiting
+[ 960.50] 0 processed &   1 arrivals in   0.30 minutes -   1 people currently waiting
+[ 963.02] 1 processed &   1 arrivals in   2.52 minutes -   1 people currently waiting
+[ 964.56] 1 processed &   1 arrivals in   1.54 minutes -   1 people currently waiting
+[ 965.75] 1 processed &   1 arrivals in   1.19 minutes -   1 people currently waiting
+[ 965.84] 1 processed &   0 arrivals in   0.09 minutes -   0 people currently waiting
+[ 970.74] 0 processed &   1 arrivals in   4.91 minutes -   1 people currently waiting
+[ 971.96] 1 processed &   0 arrivals in   1.22 minutes -   0 people currently waiting
+[ 973.24] 0 processed &   1 arrivals in   1.27 minutes -   1 people currently waiting
+[ 983.11] 1 processed &   1 arrivals in   9.88 minutes -   1 people currently waiting
+[ 984.76] 1 processed &   0 arrivals in   1.65 minutes -   0 people currently waiting
+[ 987.71] 0 processed &   1 arrivals in   2.94 minutes -   1 people currently waiting
+[ 989.80] 1 processed &   0 arrivals in   2.09 minutes -   0 people currently waiting
+[ 997.44] 0 processed &   1 arrivals in   7.64 minutes -   1 people currently waiting
+[ 999.29] 1 processed &   1 arrivals in   1.85 minutes -   1 people currently waiting
+[1000.46] 1 processed &   0 arrivals in   1.17 minutes -   0 people currently waiting
+[1002.98] 0 processed &   1 arrivals in   2.52 minutes -   1 people currently waiting
+[1004.91] 1 processed &   1 arrivals in   1.93 minutes -   1 people currently waiting
+[1005.10] 1 processed &   0 arrivals in   0.20 minutes -   0 people currently waiting
+[1011.64] 0 processed &   1 arrivals in   6.53 minutes -   1 people currently waiting
+[1011.93] 1 processed &   0 arrivals in   0.29 minutes -   0 people currently waiting
+[1012.37] 0 processed &   1 arrivals in   0.44 minutes -   1 people currently waiting
+[1014.59] 1 processed &   1 arrivals in   2.22 minutes -   1 people currently waiting
+[1015.22] 1 processed &   0 arrivals in   0.63 minutes -   0 people currently waiting
+[1019.02] 0 processed &   1 arrivals in   3.80 minutes -   1 people currently waiting
+[1038.82] 1 processed &   4 arrivals in  19.80 minutes -   4 people currently waiting
+[1041.40] 1 processed &   1 arrivals in   2.58 minutes -   4 people currently waiting
+[1043.24] 1 processed &   0 arrivals in   1.83 minutes -   3 people currently waiting
+[1049.29] 1 processed &   3 arrivals in   6.06 minutes -   5 people currently waiting
+[1049.35] 1 processed &   0 arrivals in   0.06 minutes -   4 people currently waiting
+[1050.32] 1 processed &   0 arrivals in   0.97 minutes -   3 people currently waiting
+[1050.72] 1 processed &   0 arrivals in   0.39 minutes -   2 people currently waiting
+[1052.29] 1 processed &   1 arrivals in   1.58 minutes -   2 people currently waiting
+[1055.36] 1 processed &   1 arrivals in   3.06 minutes -   2 people currently waiting
+[1059.71] 1 processed &   0 arrivals in   4.36 minutes -   1 people currently waiting
+[1059.90] 1 processed &   1 arrivals in   0.19 minutes -   1 people currently waiting
+[1060.87] 1 processed &   0 arrivals in   0.97 minutes -   0 people currently waiting
+[1062.14] 0 processed &   1 arrivals in   1.26 minutes -   1 people currently waiting
+[1062.40] 1 processed &   0 arrivals in   0.26 minutes -   0 people currently waiting
+[1064.05] 0 processed &   1 arrivals in   1.65 minutes -   1 people currently waiting
+[1068.71] 1 processed &   3 arrivals in   4.66 minutes -   3 people currently waiting
+[1069.83] 1 processed &   1 arrivals in   1.12 minutes -   3 people currently waiting
+[1075.49] 1 processed &   1 arrivals in   5.66 minutes -   3 people currently waiting
+[1084.50] 1 processed &   5 arrivals in   9.01 minutes -   7 people currently waiting
+[1084.57] 1 processed &   0 arrivals in   0.08 minutes -   6 people currently waiting
+[1092.03] 1 processed &   1 arrivals in   7.46 minutes -   6 people currently waiting
+[1094.77] 1 processed &   2 arrivals in   2.74 minutes -   7 people currently waiting
+[1094.87] 1 processed &   0 arrivals in   0.10 minutes -   6 people currently waiting
+[1095.13] 1 processed &   0 arrivals in   0.26 minutes -   5 people currently waiting
+[1097.82] 1 processed &   0 arrivals in   2.69 minutes -   4 people currently waiting
+[1099.07] 1 processed &   0 arrivals in   1.25 minutes -   3 people currently waiting
+[1100.69] 1 processed &   0 arrivals in   1.61 minutes -   2 people currently waiting
+[1100.73] 1 processed &   0 arrivals in   0.04 minutes -   1 people currently waiting
+[1103.15] 1 processed &   0 arrivals in   2.42 minutes -   0 people currently waiting
+[1104.78] 0 processed &   1 arrivals in   1.63 minutes -   1 people currently waiting
+[1108.43] 1 processed &   0 arrivals in   3.66 minutes -   0 people currently waiting
+[1110.79] 0 processed &   1 arrivals in   2.35 minutes -   1 people currently waiting
+[1112.98] 1 processed &   0 arrivals in   2.20 minutes -   0 people currently waiting
+[1113.35] 0 processed &   1 arrivals in   0.37 minutes -   1 people currently waiting
+[1119.94] 1 processed &   0 arrivals in   6.59 minutes -   0 people currently waiting
+[1123.65] 0 processed &   1 arrivals in   3.71 minutes -   1 people currently waiting
+[1123.95] 1 processed &   0 arrivals in   0.30 minutes -   0 people currently waiting
+[1124.21] 0 processed &   1 arrivals in   0.26 minutes -   1 people currently waiting
+[1133.60] 1 processed &   5 arrivals in   9.39 minutes -   5 people currently waiting
+[1134.25] 1 processed &   0 arrivals in   0.65 minutes -   4 people currently waiting
+[1134.42] 1 processed &   0 arrivals in   0.17 minutes -   3 people currently waiting
+[1137.06] 1 processed &   0 arrivals in   2.64 minutes -   2 people currently waiting
+[1138.32] 1 processed &   1 arrivals in   1.25 minutes -   2 people currently waiting
+[1138.48] 1 processed &   0 arrivals in   0.17 minutes -   1 people currently waiting
+[1138.62] 1 processed &   0 arrivals in   0.14 minutes -   0 people currently waiting
+[1139.68] 0 processed &   1 arrivals in   1.06 minutes -   1 people currently waiting
+[1141.66] 1 processed &   2 arrivals in   1.98 minutes -   2 people currently waiting
+[1142.77] 1 processed &   1 arrivals in   1.11 minutes -   2 people currently waiting
+[1142.82] 1 processed &   0 arrivals in   0.05 minutes -   1 people currently waiting
+[1143.32] 1 processed &   0 arrivals in   0.50 minutes -   0 people currently waiting
+[1143.45] 0 processed &   1 arrivals in   0.14 minutes -   1 people currently waiting
+[1146.79] 1 processed &   2 arrivals in   3.34 minutes -   2 people currently waiting
+[1150.71] 1 processed &   2 arrivals in   3.91 minutes -   3 people currently waiting
+[1151.83] 1 processed &   0 arrivals in   1.12 minutes -   2 people currently waiting
+[1155.26] 1 processed &   1 arrivals in   3.43 minutes -   2 people currently waiting
+[1156.16] 1 processed &   1 arrivals in   0.90 minutes -   2 people currently waiting
+[1156.50] 1 processed &   0 arrivals in   0.34 minutes -   1 people currently waiting
+[1158.13] 1 processed &   0 arrivals in   1.63 minutes -   0 people currently waiting
+[1161.73] 0 processed &   1 arrivals in   3.60 minutes -   1 people currently waiting
+[1164.29] 1 processed &   1 arrivals in   2.56 minutes -   1 people currently waiting
+[1167.46] 1 processed &   1 arrivals in   3.17 minutes -   1 people currently waiting
+[1169.09] 1 processed &   0 arrivals in   1.63 minutes -   0 people currently waiting
+[1172.34] 0 processed &   1 arrivals in   3.25 minutes -   1 people currently waiting
+[1172.68] 1 processed &   0 arrivals in   0.34 minutes -   0 people currently waiting
+[1173.92] 0 processed &   1 arrivals in   1.24 minutes -   1 people currently waiting
+[1177.09] 1 processed &   2 arrivals in   3.17 minutes -   2 people currently waiting
+[1182.17] 1 processed &   1 arrivals in   5.09 minutes -   2 people currently waiting
+[1182.86] 1 processed &   0 arrivals in   0.69 minutes -   1 people currently waiting
+[1184.48] 1 processed &   0 arrivals in   1.62 minutes -   0 people currently waiting
+[1187.28] 0 processed &   1 arrivals in   2.80 minutes -   1 people currently waiting
+[1187.79] 1 processed &   0 arrivals in   0.51 minutes -   0 people currently waiting
+[1191.05] 0 processed &   1 arrivals in   3.26 minutes -   1 people currently waiting
+[1192.32] 1 processed &   0 arrivals in   1.27 minutes -   0 people currently waiting
+[1199.49] 0 processed &   1 arrivals in   7.16 minutes -   1 people currently waiting
+[1202.93] 1 processed &   2 arrivals in   3.44 minutes -   2 people currently waiting
+[1209.52] 1 processed &   2 arrivals in   6.60 minutes -   3 people currently waiting
+[1210.78] 1 processed &   1 arrivals in   1.26 minutes -   3 people currently waiting
+[1211.15] 1 processed &   0 arrivals in   0.36 minutes -   2 people currently waiting
+[1212.18] 1 processed &   0 arrivals in   1.03 minutes -   1 people currently waiting
+[1212.71] 1 processed &   0 arrivals in   0.53 minutes -   0 people currently waiting
+[1214.44] 0 processed &   1 arrivals in   1.73 minutes -   1 people currently waiting
+[1224.33] 1 processed &   4 arrivals in   9.89 minutes -   4 people currently waiting
+[1230.43] 1 processed &   3 arrivals in   6.10 minutes -   6 people currently waiting
+[1236.33] 1 processed &   2 arrivals in   5.90 minutes -   7 people currently waiting
+[1237.90] 1 processed &   2 arrivals in   1.57 minutes -   8 people currently waiting
+[1237.94] 1 processed &   0 arrivals in   0.04 minutes -   7 people currently waiting
+[1238.50] 1 processed &   1 arrivals in   0.57 minutes -   7 people currently waiting
+[1239.40] 1 processed &   0 arrivals in   0.90 minutes -   6 people currently waiting
+[1243.87] 1 processed &   0 arrivals in   4.46 minutes -   5 people currently waiting
+[1246.22] 1 processed &   0 arrivals in   2.35 minutes -   4 people currently waiting
+[1253.26] 1 processed &   4 arrivals in   7.04 minutes -   7 people currently waiting
+[1254.13] 1 processed &   0 arrivals in   0.87 minutes -   6 people currently waiting
+[1255.70] 1 processed &   0 arrivals in   1.57 minutes -   5 people currently waiting
+[1259.01] 1 processed &   0 arrivals in   3.31 minutes -   4 people currently waiting
+[1260.07] 1 processed &   0 arrivals in   1.07 minutes -   3 people currently waiting
+[1264.19] 1 processed &   1 arrivals in   4.12 minutes -   3 people currently waiting
+[1273.92] 1 processed &   3 arrivals in   9.72 minutes -   5 people currently waiting
+[1275.60] 1 processed &   1 arrivals in   1.68 minutes -   5 people currently waiting
+[1277.12] 1 processed &   1 arrivals in   1.52 minutes -   5 people currently waiting
+[1280.29] 1 processed &   1 arrivals in   3.17 minutes -   5 people currently waiting
+[1281.20] 1 processed &   1 arrivals in   0.91 minutes -   5 people currently waiting
+[1284.32] 1 processed &   1 arrivals in   3.12 minutes -   5 people currently waiting
+[1292.24] 1 processed &   1 arrivals in   7.92 minutes -   5 people currently waiting
+[1294.81] 1 processed &   0 arrivals in   2.57 minutes -   4 people currently waiting
+[1298.20] 1 processed &   3 arrivals in   3.39 minutes -   6 people currently waiting
+[1298.50] 1 processed &   0 arrivals in   0.30 minutes -   5 people currently waiting
+[1304.33] 1 processed &   2 arrivals in   5.83 minutes -   6 people currently waiting
+[1306.34] 1 processed &   0 arrivals in   2.00 minutes -   5 people currently waiting
+[1306.70] 1 processed &   0 arrivals in   0.36 minutes -   4 people currently waiting
+[1310.28] 1 processed &   2 arrivals in   3.58 minutes -   5 people currently waiting
+[1310.73] 1 processed &   0 arrivals in   0.46 minutes -   4 people currently waiting
+[1324.78] 1 processed &   1 arrivals in  14.05 minutes -   4 people currently waiting
+[1326.82] 1 processed &   2 arrivals in   2.04 minutes -   5 people currently waiting
+[1329.83] 1 processed &   0 arrivals in   3.01 minutes -   4 people currently waiting
+[1333.89] 1 processed &   1 arrivals in   4.06 minutes -   4 people currently waiting
+[1337.83] 1 processed &   1 arrivals in   3.94 minutes -   4 people currently waiting
+[1339.16] 1 processed &   1 arrivals in   1.33 minutes -   4 people currently waiting
+[1340.29] 1 processed &   0 arrivals in   1.13 minutes -   3 people currently waiting
+[1342.37] 1 processed &   1 arrivals in   2.07 minutes -   3 people currently waiting
+[1345.29] 1 processed &   1 arrivals in   2.92 minutes -   3 people currently waiting
+[1346.91] 1 processed &   0 arrivals in   1.62 minutes -   2 people currently waiting
+[1349.41] 1 processed &   0 arrivals in   2.50 minutes -   1 people currently waiting
+[1354.99] 1 processed &   1 arrivals in   5.58 minutes -   1 people currently waiting
+[1362.28] 1 processed &   2 arrivals in   7.29 minutes -   2 people currently waiting
+[1363.19] 1 processed &   0 arrivals in   0.91 minutes -   1 people currently waiting
+[1363.46] 1 processed &   0 arrivals in   0.27 minutes -   0 people currently waiting
+[1365.58] 0 processed &   1 arrivals in   2.12 minutes -   1 people currently waiting
+[1368.87] 1 processed &   1 arrivals in   3.29 minutes -   1 people currently waiting
+[1369.51] 1 processed &   0 arrivals in   0.64 minutes -   0 people currently waiting
+[1369.74] 0 processed &   1 arrivals in   0.24 minutes -   1 people currently waiting
+[1370.87] 1 processed &   0 arrivals in   1.13 minutes -   0 people currently waiting
+[1371.19] 0 processed &   1 arrivals in   0.32 minutes -   1 people currently waiting
+[1372.71] 1 processed &   1 arrivals in   1.52 minutes -   1 people currently waiting
+[1372.82] 1 processed &   0 arrivals in   0.11 minutes -   0 people currently waiting
+[1374.42] 0 processed &   1 arrivals in   1.61 minutes -   1 people currently waiting
+[1375.90] 1 processed &   1 arrivals in   1.47 minutes -   1 people currently waiting
+[1376.96] 1 processed &   0 arrivals in   1.06 minutes -   0 people currently waiting
+[1377.78] 0 processed &   1 arrivals in   0.82 minutes -   1 people currently waiting
+[1380.49] 1 processed &   2 arrivals in   2.71 minutes -   2 people currently waiting
+[1386.56] 1 processed &   5 arrivals in   6.07 minutes -   6 people currently waiting
+[1387.95] 1 processed &   1 arrivals in   1.39 minutes -   6 people currently waiting
+[1388.29] 1 processed &   0 arrivals in   0.34 minutes -   5 people currently waiting
+[1391.01] 1 processed &   2 arrivals in   2.72 minutes -   6 people currently waiting
+[1395.64] 1 processed &   1 arrivals in   4.63 minutes -   6 people currently waiting
+[1396.29] 1 processed &   0 arrivals in   0.65 minutes -   5 people currently waiting
+[1397.12] 1 processed &   0 arrivals in   0.83 minutes -   4 people currently waiting
+[1400.67] 1 processed &   2 arrivals in   3.54 minutes -   5 people currently waiting
+[1417.47] 1 processed &   3 arrivals in  16.80 minutes -   7 people currently waiting
+[1419.64] 1 processed &   1 arrivals in   2.17 minutes -   7 people currently waiting
+[1423.56] 1 processed &   0 arrivals in   3.92 minutes -   6 people currently waiting
+[1423.88] 1 processed &   1 arrivals in   0.32 minutes -   6 people currently waiting
+[1424.93] 1 processed &   0 arrivals in   1.05 minutes -   5 people currently waiting
+[1426.27] 1 processed &   0 arrivals in   1.33 minutes -   4 people currently waiting
+[1428.61] 1 processed &   1 arrivals in   2.35 minutes -   4 people currently waiting
+[1431.71] 1 processed &   2 arrivals in   3.10 minutes -   5 people currently waiting
+[1434.29] 1 processed &   1 arrivals in   2.58 minutes -   5 people currently waiting
+[1437.62] 1 processed &   4 arrivals in   3.34 minutes -   8 people currently waiting
+[1440.65] 1 processed &   1 arrivals in   3.03 minutes -   8 people currently waiting
+[1446.59] 1 processed &   2 arrivals in   5.94 minutes -   9 people currently waiting
+[1447.80] 1 processed &   2 arrivals in   1.22 minutes -  10 people currently waiting
+[1450.58] 1 processed &   2 arrivals in   2.77 minutes -  11 people currently waiting
+[1453.01] 1 processed &   1 arrivals in   2.44 minutes -  11 people currently waiting
+[1456.31] 1 processed &   2 arrivals in   3.30 minutes -  12 people currently waiting
+[1459.09] 1 processed &   2 arrivals in   2.78 minutes -  13 people currently waiting
+[1466.82] 1 processed &   2 arrivals in   7.73 minutes -  14 people currently waiting
+[1470.66] 1 processed &   2 arrivals in   3.84 minutes -  15 people currently waiting
+[1476.31] 1 processed &   1 arrivals in   5.65 minutes -  15 people currently waiting
+[1476.57] 1 processed &   0 arrivals in   0.26 minutes -  14 people currently waiting
+[1482.42] 1 processed &   2 arrivals in   5.85 minutes -  15 people currently waiting
+[1486.94] 1 processed &   2 arrivals in   4.52 minutes -  16 people currently waiting
+[1493.75] 1 processed &   2 arrivals in   6.80 minutes -  17 people currently waiting
+[1494.41] 1 processed &   0 arrivals in   0.66 minutes -  16 people currently waiting
+[1496.78] 1 processed &   1 arrivals in   2.38 minutes -  16 people currently waiting
+[1497.54] 1 processed &   0 arrivals in   0.76 minutes -  15 people currently waiting
+[1499.33] 1 processed &   1 arrivals in   1.79 minutes -  15 people currently waiting
+[1506.36] 1 processed &   3 arrivals in   7.04 minutes -  17 people currently waiting
+[1508.31] 1 processed &   0 arrivals in   1.95 minutes -  16 people currently waiting
+[1509.29] 1 processed &   1 arrivals in   0.98 minutes -  16 people currently waiting
+[1511.53] 1 processed &   0 arrivals in   2.23 minutes -  15 people currently waiting
+[1518.40] 1 processed &   1 arrivals in   6.87 minutes -  15 people currently waiting
+[1518.47] 1 processed &   0 arrivals in   0.08 minutes -  14 people currently waiting
+[1519.82] 1 processed &   2 arrivals in   1.35 minutes -  15 people currently waiting
+[1521.68] 1 processed &   1 arrivals in   1.85 minutes -  15 people currently waiting
+[1523.19] 1 processed &   2 arrivals in   1.51 minutes -  16 people currently waiting
+[1530.62] 1 processed &   1 arrivals in   7.43 minutes -  16 people currently waiting
+[1536.67] 1 processed &   2 arrivals in   6.05 minutes -  17 people currently waiting
+[1538.09] 1 processed &   2 arrivals in   1.42 minutes -  18 people currently waiting
+[1539.65] 1 processed &   1 arrivals in   1.56 minutes -  18 people currently waiting
+[1547.38] 1 processed &   4 arrivals in   7.73 minutes -  21 people currently waiting
+[1548.26] 1 processed &   0 arrivals in   0.88 minutes -  20 people currently waiting
+[1553.54] 1 processed &   1 arrivals in   5.28 minutes -  20 people currently waiting
+[1554.81] 1 processed &   1 arrivals in   1.27 minutes -  20 people currently waiting
+[1558.72] 1 processed &   4 arrivals in   3.92 minutes -  23 people currently waiting
+[1562.54] 1 processed &   0 arrivals in   3.81 minutes -  22 people currently waiting
+[1563.75] 1 processed &   0 arrivals in   1.21 minutes -  21 people currently waiting
+[1564.41] 1 processed &   0 arrivals in   0.66 minutes -  20 people currently waiting
+[1568.18] 1 processed &   3 arrivals in   3.77 minutes -  22 people currently waiting
+[1569.69] 1 processed &   0 arrivals in   1.50 minutes -  21 people currently waiting
+[1571.71] 1 processed &   3 arrivals in   2.02 minutes -  23 people currently waiting
+[1576.65] 1 processed &   2 arrivals in   4.94 minutes -  24 people currently waiting
+[1577.94] 1 processed &   1 arrivals in   1.30 minutes -  24 people currently waiting
+[1578.52] 1 processed &   1 arrivals in   0.57 minutes -  24 people currently waiting
+[1591.01] 1 processed &   6 arrivals in  12.49 minutes -  29 people currently waiting
+[1592.23] 1 processed &   0 arrivals in   1.22 minutes -  28 people currently waiting
+[1594.83] 1 processed &   2 arrivals in   2.60 minutes -  29 people currently waiting
+[1597.13] 1 processed &   0 arrivals in   2.29 minutes -  28 people currently waiting
+[1600.03] 1 processed &   2 arrivals in   2.90 minutes -  29 people currently waiting
+[1603.17] 1 processed &   2 arrivals in   3.14 minutes -  30 people currently waiting
+[1603.78] 1 processed &   0 arrivals in   0.60 minutes -  29 people currently waiting
+[1607.88] 1 processed &   1 arrivals in   4.10 minutes -  29 people currently waiting
+[1608.73] 1 processed &   0 arrivals in   0.86 minutes -  28 people currently waiting
+[1611.26] 1 processed &   1 arrivals in   2.53 minutes -  28 people currently waiting
+[1611.39] 1 processed &   0 arrivals in   0.13 minutes -  27 people currently waiting
+[1612.23] 1 processed &   0 arrivals in   0.84 minutes -  26 people currently waiting
+[1612.40] 1 processed &   0 arrivals in   0.17 minutes -  25 people currently waiting
+[1621.37] 1 processed &   4 arrivals in   8.97 minutes -  28 people currently waiting
+[1622.26] 1 processed &   0 arrivals in   0.89 minutes -  27 people currently waiting
+[1623.25] 1 processed &   0 arrivals in   0.99 minutes -  26 people currently waiting
+[1626.94] 1 processed &   1 arrivals in   3.69 minutes -  26 people currently waiting
+[1629.64] 1 processed &   0 arrivals in   2.70 minutes -  25 people currently waiting
+[1631.96] 1 processed &   4 arrivals in   2.32 minutes -  28 people currently waiting
+[1633.59] 1 processed &   1 arrivals in   1.63 minutes -  28 people currently waiting
+[1633.92] 1 processed &   0 arrivals in   0.33 minutes -  27 people currently waiting
+[1634.12] 1 processed &   0 arrivals in   0.19 minutes -  26 people currently waiting
+[1637.27] 1 processed &   0 arrivals in   3.15 minutes -  25 people currently waiting
+[1637.83] 1 processed &   0 arrivals in   0.56 minutes -  24 people currently waiting
+[1640.31] 1 processed &   1 arrivals in   2.48 minutes -  24 people currently waiting
+[1648.30] 1 processed &   2 arrivals in   7.99 minutes -  25 people currently waiting
+[1650.82] 1 processed &   1 arrivals in   2.52 minutes -  25 people currently waiting
+[1656.00] 1 processed &   1 arrivals in   5.18 minutes -  25 people currently waiting
+[1664.65] 1 processed &   2 arrivals in   8.65 minutes -  26 people currently waiting
+[1667.29] 1 processed &   1 arrivals in   2.64 minutes -  26 people currently waiting
+[1674.44] 1 processed &   2 arrivals in   7.15 minutes -  27 people currently waiting
+[1675.14] 1 processed &   0 arrivals in   0.70 minutes -  26 people currently waiting
+[1678.72] 1 processed &   2 arrivals in   3.58 minutes -  27 people currently waiting
+[1680.66] 1 processed &   0 arrivals in   1.94 minutes -  26 people currently waiting
+[1683.91] 1 processed &   1 arrivals in   3.25 minutes -  26 people currently waiting
+[1691.05] 1 processed &   4 arrivals in   7.13 minutes -  29 people currently waiting
+[1693.17] 1 processed &   1 arrivals in   2.13 minutes -  29 people currently waiting
+[1693.34] 1 processed &   0 arrivals in   0.17 minutes -  28 people currently waiting
+[1694.23] 1 processed &   0 arrivals in   0.89 minutes -  27 people currently waiting
+[1700.89] 1 processed &   2 arrivals in   6.65 minutes -  28 people currently waiting
+[1702.88] 1 processed &   2 arrivals in   2.00 minutes -  29 people currently waiting
+[1709.73] 1 processed &   2 arrivals in   6.85 minutes -  30 people currently waiting
+[1715.55] 1 processed &   1 arrivals in   5.82 minutes -  30 people currently waiting
+[1717.29] 1 processed &   2 arrivals in   1.73 minutes -  31 people currently waiting
+[1719.01] 1 processed &   3 arrivals in   1.72 minutes -  33 people currently waiting
+[1720.36] 1 processed &   0 arrivals in   1.35 minutes -  32 people currently waiting
+[1721.64] 1 processed &   0 arrivals in   1.27 minutes -  31 people currently waiting
+[1724.46] 1 processed &   1 arrivals in   2.82 minutes -  31 people currently waiting
+[1725.72] 1 processed &   0 arrivals in   1.26 minutes -  30 people currently waiting
+[1729.46] 1 processed &   0 arrivals in   3.74 minutes -  29 people currently waiting
+[1729.84] 1 processed &   0 arrivals in   0.38 minutes -  28 people currently waiting
+[1730.15] 1 processed &   0 arrivals in   0.31 minutes -  27 people currently waiting
+[1737.31] 1 processed &   3 arrivals in   7.16 minutes -  29 people currently waiting
+[1742.56] 1 processed &   2 arrivals in   5.25 minutes -  30 people currently waiting
+[1745.74] 1 processed &   1 arrivals in   3.18 minutes -  30 people currently waiting
+[1746.14] 1 processed &   0 arrivals in   0.39 minutes -  29 people currently waiting
+[1757.29] 1 processed &   4 arrivals in  11.15 minutes -  32 people currently waiting
+[1758.06] 1 processed &   0 arrivals in   0.77 minutes -  31 people currently waiting
+[1760.07] 1 processed &   1 arrivals in   2.01 minutes -  31 people currently waiting
+[1760.90] 1 processed &   2 arrivals in   0.83 minutes -  32 people currently waiting
+[1762.04] 1 processed &   2 arrivals in   1.14 minutes -  33 people currently waiting
+[1762.35] 1 processed &   0 arrivals in   0.31 minutes -  32 people currently waiting
+[1764.12] 1 processed &   2 arrivals in   1.77 minutes -  33 people currently waiting
+[1766.27] 1 processed &   2 arrivals in   2.15 minutes -  34 people currently waiting
+[1770.88] 1 processed &   1 arrivals in   4.60 minutes -  34 people currently waiting
+[1771.21] 1 processed &   1 arrivals in   0.33 minutes -  34 people currently waiting
+[1771.25] 1 processed &   0 arrivals in   0.04 minutes -  33 people currently waiting
+[1783.75] 1 processed &   1 arrivals in  12.50 minutes -  33 people currently waiting
+[1784.30] 1 processed &   0 arrivals in   0.54 minutes -  32 people currently waiting
+[1787.89] 1 processed &   0 arrivals in   3.60 minutes -  31 people currently waiting
+[1789.24] 1 processed &   0 arrivals in   1.35 minutes -  30 people currently waiting
+[1794.59] 1 processed &   3 arrivals in   5.35 minutes -  32 people currently waiting
+[1795.01] 1 processed &   0 arrivals in   0.42 minutes -  31 people currently waiting
+[1806.44] 1 processed &   3 arrivals in  11.42 minutes -  33 people currently waiting
+[1808.23] 1 processed &   1 arrivals in   1.79 minutes -  33 people currently waiting
+[1810.25] 1 processed &   1 arrivals in   2.02 minutes -  33 people currently waiting
+[1811.23] 1 processed &   1 arrivals in   0.98 minutes -  33 people currently waiting
+[1812.84] 1 processed &   0 arrivals in   1.61 minutes -  32 people currently waiting
+[1816.80] 1 processed &   2 arrivals in   3.96 minutes -  33 people currently waiting
+[1817.72] 1 processed &   0 arrivals in   0.91 minutes -  32 people currently waiting
+[1819.44] 1 processed &   0 arrivals in   1.72 minutes -  31 people currently waiting
+[1821.16] 1 processed &   0 arrivals in   1.72 minutes -  30 people currently waiting
+[1822.52] 1 processed &   0 arrivals in   1.36 minutes -  29 people currently waiting
+[1832.28] 1 processed &   7 arrivals in   9.76 minutes -  35 people currently waiting
+[1837.89] 1 processed &   2 arrivals in   5.61 minutes -  36 people currently waiting
+[1839.40] 1 processed &   0 arrivals in   1.51 minutes -  35 people currently waiting
+[1839.84] 1 processed &   0 arrivals in   0.44 minutes -  34 people currently waiting
+[1840.54] 1 processed &   0 arrivals in   0.70 minutes -  33 people currently waiting
+[1843.14] 1 processed &   0 arrivals in   2.60 minutes -  32 people currently waiting
+[1845.46] 1 processed &   0 arrivals in   2.33 minutes -  31 people currently waiting
+[1858.14] 1 processed &   0 arrivals in  12.68 minutes -  30 people currently waiting
+[1860.89] 1 processed &   0 arrivals in   2.74 minutes -  29 people currently waiting
+[1863.38] 1 processed &   0 arrivals in   2.49 minutes -  28 people currently waiting
+[1863.96] 1 processed &   0 arrivals in   0.58 minutes -  27 people currently waiting
+[1868.58] 1 processed &   1 arrivals in   4.63 minutes -  27 people currently waiting
+[1872.29] 1 processed &   0 arrivals in   3.71 minutes -  26 people currently waiting
+[1874.37] 1 processed &   0 arrivals in   2.08 minutes -  25 people currently waiting
+[1877.89] 1 processed &   1 arrivals in   3.52 minutes -  25 people currently waiting
+[1888.19] 1 processed &   5 arrivals in  10.30 minutes -  29 people currently waiting
+[1896.40] 1 processed &   2 arrivals in   8.21 minutes -  30 people currently waiting
+[1896.68] 1 processed &   0 arrivals in   0.28 minutes -  29 people currently waiting
+[1899.32] 1 processed &   0 arrivals in   2.64 minutes -  28 people currently waiting
+[1902.42] 1 processed &   1 arrivals in   3.11 minutes -  28 people currently waiting
+[1905.19] 1 processed &   2 arrivals in   2.77 minutes -  29 people currently waiting
+[1907.78] 1 processed &   0 arrivals in   2.59 minutes -  28 people currently waiting
+[1919.06] 1 processed &   2 arrivals in  11.28 minutes -  29 people currently waiting
+[1920.03] 1 processed &   1 arrivals in   0.97 minutes -  29 people currently waiting
+[1927.03] 1 processed &   5 arrivals in   7.01 minutes -  33 people currently waiting
+[1927.36] 1 processed &   1 arrivals in   0.33 minutes -  33 people currently waiting
+[1928.85] 1 processed &   0 arrivals in   1.49 minutes -  32 people currently waiting
+[1930.94] 1 processed &   0 arrivals in   2.09 minutes -  31 people currently waiting
+[1932.08] 1 processed &   1 arrivals in   1.14 minutes -  31 people currently waiting
+[1933.46] 1 processed &   0 arrivals in   1.38 minutes -  30 people currently waiting
+[1941.04] 1 processed &   1 arrivals in   7.58 minutes -  30 people currently waiting
+[1942.24] 1 processed &   0 arrivals in   1.21 minutes -  29 people currently waiting
+[1942.66] 1 processed &   0 arrivals in   0.42 minutes -  28 people currently waiting
+[1952.20] 1 processed &   1 arrivals in   9.53 minutes -  28 people currently waiting
+[1956.21] 1 processed &   1 arrivals in   4.01 minutes -  28 people currently waiting
+[1956.40] 1 processed &   1 arrivals in   0.19 minutes -  28 people currently waiting
+[1958.46] 1 processed &   0 arrivals in   2.07 minutes -  27 people currently waiting
+[1963.00] 1 processed &   2 arrivals in   4.54 minutes -  28 people currently waiting
+[1968.21] 1 processed &   1 arrivals in   5.21 minutes -  28 people currently waiting
+[1968.49] 1 processed &   0 arrivals in   0.28 minutes -  27 people currently waiting
+[1968.71] 1 processed &   0 arrivals in   0.22 minutes -  26 people currently waiting
+[1969.08] 1 processed &   0 arrivals in   0.37 minutes -  25 people currently waiting
+[1973.11] 1 processed &   0 arrivals in   4.03 minutes -  24 people currently waiting
+[1974.70] 1 processed &   0 arrivals in   1.58 minutes -  23 people currently waiting
+[1976.56] 1 processed &   1 arrivals in   1.86 minutes -  23 people currently waiting
+[1976.79] 1 processed &   0 arrivals in   0.23 minutes -  22 people currently waiting
+[1979.22] 1 processed &   0 arrivals in   2.43 minutes -  21 people currently waiting
+[1981.59] 1 processed &   3 arrivals in   2.36 minutes -  23 people currently waiting
+[1983.49] 1 processed &   0 arrivals in   1.90 minutes -  22 people currently waiting
+[1988.75] 1 processed &   1 arrivals in   5.26 minutes -  22 people currently waiting
+[1989.95] 1 processed &   0 arrivals in   1.20 minutes -  21 people currently waiting
+[1990.77] 1 processed &   0 arrivals in   0.82 minutes -  20 people currently waiting
+[1991.93] 1 processed &   0 arrivals in   1.16 minutes -  19 people currently waiting
+[1992.44] 1 processed &   0 arrivals in   0.52 minutes -  18 people currently waiting
+[1993.25] 1 processed &   1 arrivals in   0.81 minutes -  18 people currently waiting
+[1996.33] 1 processed &   0 arrivals in   3.08 minutes -  17 people currently waiting
+[1998.49] 1 processed &   1 arrivals in   2.15 minutes -  17 people currently waiting
+[2000.10] 1 processed &   0 arrivals in   1.61 minutes -  16 people currently waiting
+[2014.37] 1 processed &   9 arrivals in  14.27 minutes -  24 people currently waiting
+[2014.55] 1 processed &   0 arrivals in   0.18 minutes -  23 people currently waiting
+[2015.48] 1 processed &   0 arrivals in   0.93 minutes -  22 people currently waiting
+[2022.76] 1 processed &   4 arrivals in   7.28 minutes -  25 people currently waiting
+[2023.43] 1 processed &   0 arrivals in   0.67 minutes -  24 people currently waiting
+[2023.52] 1 processed &   0 arrivals in   0.10 minutes -  23 people currently waiting
+[2024.46] 1 processed &   1 arrivals in   0.94 minutes -  23 people currently waiting
+[2024.86] 1 processed &   0 arrivals in   0.40 minutes -  22 people currently waiting
+[2030.51] 1 processed &   3 arrivals in   5.64 minutes -  24 people currently waiting
+[2033.73] 1 processed &   0 arrivals in   3.23 minutes -  23 people currently waiting
+[2034.08] 1 processed &   0 arrivals in   0.35 minutes -  22 people currently waiting
+[2034.92] 1 processed &   0 arrivals in   0.84 minutes -  21 people currently waiting
+[2036.87] 1 processed &   0 arrivals in   1.95 minutes -  20 people currently waiting
+[2038.80] 1 processed &   1 arrivals in   1.94 minutes -  20 people currently waiting
+[2038.83] 1 processed &   0 arrivals in   0.02 minutes -  19 people currently waiting
+[2042.62] 1 processed &   0 arrivals in   3.79 minutes -  18 people currently waiting
+[2046.75] 1 processed &   3 arrivals in   4.13 minutes -  20 people currently waiting
+[2047.59] 1 processed &   0 arrivals in   0.83 minutes -  19 people currently waiting
+[2051.19] 1 processed &   1 arrivals in   3.60 minutes -  19 people currently waiting
+[2052.99] 1 processed &   0 arrivals in   1.80 minutes -  18 people currently waiting
+[2058.08] 1 processed &   2 arrivals in   5.10 minutes -  19 people currently waiting
+[2058.17] 1 processed &   0 arrivals in   0.09 minutes -  18 people currently waiting
+[2058.52] 1 processed &   0 arrivals in   0.34 minutes -  17 people currently waiting
+[2067.42] 1 processed &   2 arrivals in   8.90 minutes -  18 people currently waiting
+[2067.54] 1 processed &   0 arrivals in   0.13 minutes -  17 people currently waiting
+[2068.32] 1 processed &   2 arrivals in   0.78 minutes -  18 people currently waiting
+[2073.81] 1 processed &   2 arrivals in   5.49 minutes -  19 people currently waiting
+[2075.20] 1 processed &   1 arrivals in   1.39 minutes -  19 people currently waiting
+[2076.49] 1 processed &   0 arrivals in   1.29 minutes -  18 people currently waiting
+[2079.21] 1 processed &   1 arrivals in   2.72 minutes -  18 people currently waiting
+[2079.58] 1 processed &   1 arrivals in   0.37 minutes -  18 people currently waiting
+[2084.56] 1 processed &   0 arrivals in   4.97 minutes -  17 people currently waiting
+[2086.37] 1 processed &   0 arrivals in   1.81 minutes -  16 people currently waiting
+[2090.42] 1 processed &   2 arrivals in   4.05 minutes -  17 people currently waiting
+[2099.03] 1 processed &   6 arrivals in   8.61 minutes -  22 people currently waiting
+[2105.93] 1 processed &   0 arrivals in   6.89 minutes -  21 people currently waiting
+[2106.69] 1 processed &   0 arrivals in   0.76 minutes -  20 people currently waiting
+[2111.01] 1 processed &   0 arrivals in   4.32 minutes -  19 people currently waiting
+[2112.70] 1 processed &   0 arrivals in   1.68 minutes -  18 people currently waiting
+[2113.13] 1 processed &   0 arrivals in   0.43 minutes -  17 people currently waiting
+[2113.59] 1 processed &   0 arrivals in   0.47 minutes -  16 people currently waiting
+[2115.23] 1 processed &   1 arrivals in   1.64 minutes -  16 people currently waiting
+[2118.32] 1 processed &   3 arrivals in   3.08 minutes -  18 people currently waiting
+[2121.23] 1 processed &   0 arrivals in   2.91 minutes -  17 people currently waiting
+[2123.00] 1 processed &   0 arrivals in   1.77 minutes -  16 people currently waiting
+[2128.68] 1 processed &   4 arrivals in   5.69 minutes -  19 people currently waiting
+[2131.56] 1 processed &   4 arrivals in   2.88 minutes -  22 people currently waiting
+[2134.80] 1 processed &   2 arrivals in   3.24 minutes -  23 people currently waiting
+[2135.17] 1 processed &   0 arrivals in   0.37 minutes -  22 people currently waiting
+[2135.74] 1 processed &   0 arrivals in   0.57 minutes -  21 people currently waiting
+[2136.35] 1 processed &   0 arrivals in   0.61 minutes -  20 people currently waiting
+[2136.83] 1 processed &   0 arrivals in   0.48 minutes -  19 people currently waiting
+[2138.38] 1 processed &   0 arrivals in   1.55 minutes -  18 people currently waiting
+[2141.29] 1 processed &   3 arrivals in   2.92 minutes -  20 people currently waiting
+[2141.38] 1 processed &   0 arrivals in   0.08 minutes -  19 people currently waiting
+[2143.31] 1 processed &   2 arrivals in   1.94 minutes -  20 people currently waiting
+[2145.14] 1 processed &   0 arrivals in   1.83 minutes -  19 people currently waiting
+[2149.00] 1 processed &   0 arrivals in   3.85 minutes -  18 people currently waiting
+[2149.04] 1 processed &   0 arrivals in   0.04 minutes -  17 people currently waiting
+[2150.86] 1 processed &   0 arrivals in   1.82 minutes -  16 people currently waiting
+[2152.93] 1 processed &   2 arrivals in   2.07 minutes -  17 people currently waiting
+[2161.42] 1 processed &   4 arrivals in   8.48 minutes -  20 people currently waiting
+[2162.57] 1 processed &   0 arrivals in   1.15 minutes -  19 people currently waiting
+[2165.90] 1 processed &   2 arrivals in   3.33 minutes -  20 people currently waiting
+[2166.40] 1 processed &   0 arrivals in   0.50 minutes -  19 people currently waiting
+[2166.63] 1 processed &   0 arrivals in   0.22 minutes -  18 people currently waiting
+[2167.85] 1 processed &   0 arrivals in   1.22 minutes -  17 people currently waiting
+[2170.79] 1 processed &   3 arrivals in   2.94 minutes -  19 people currently waiting
+[2172.45] 1 processed &   0 arrivals in   1.66 minutes -  18 people currently waiting
+[2176.09] 1 processed &   1 arrivals in   3.64 minutes -  18 people currently waiting
+[2181.83] 1 processed &   1 arrivals in   5.74 minutes -  18 people currently waiting
+[2182.64] 1 processed &   1 arrivals in   0.82 minutes -  18 people currently waiting
+[2186.50] 1 processed &   1 arrivals in   3.86 minutes -  18 people currently waiting
+[2189.10] 1 processed &   0 arrivals in   2.59 minutes -  17 people currently waiting
+[2191.99] 1 processed &   0 arrivals in   2.89 minutes -  16 people currently waiting
+[2192.08] 1 processed &   0 arrivals in   0.09 minutes -  15 people currently waiting
+[2192.24] 1 processed &   0 arrivals in   0.16 minutes -  14 people currently waiting
+[2195.85] 1 processed &   0 arrivals in   3.61 minutes -  13 people currently waiting
+[2197.04] 1 processed &   0 arrivals in   1.20 minutes -  12 people currently waiting
+[2197.68] 1 processed &   0 arrivals in   0.64 minutes -  11 people currently waiting
+[2202.33] 1 processed &   0 arrivals in   4.64 minutes -  10 people currently waiting
+[2210.28] 1 processed &   2 arrivals in   7.95 minutes -  11 people currently waiting
+[2211.54] 1 processed &   2 arrivals in   1.26 minutes -  12 people currently waiting
+[2213.03] 1 processed &   0 arrivals in   1.49 minutes -  11 people currently waiting
+[2216.02] 1 processed &   2 arrivals in   2.98 minutes -  12 people currently waiting
+[2218.77] 1 processed &   0 arrivals in   2.75 minutes -  11 people currently waiting
+[2219.80] 1 processed &   0 arrivals in   1.03 minutes -  10 people currently waiting
+[2227.14] 1 processed &   1 arrivals in   7.34 minutes -  10 people currently waiting
+[2228.50] 1 processed &   0 arrivals in   1.36 minutes -   9 people currently waiting
+[2230.87] 1 processed &   1 arrivals in   2.37 minutes -   9 people currently waiting
+[2243.89] 1 processed &   3 arrivals in  13.02 minutes -  11 people currently waiting
+[2244.10] 1 processed &   0 arrivals in   0.21 minutes -  10 people currently waiting
+[2251.24] 1 processed &   1 arrivals in   7.14 minutes -  10 people currently waiting
+[2253.55] 1 processed &   2 arrivals in   2.31 minutes -  11 people currently waiting
+[2258.70] 1 processed &   2 arrivals in   5.15 minutes -  12 people currently waiting
+[2258.77] 1 processed &   0 arrivals in   0.07 minutes -  11 people currently waiting
+[2262.20] 1 processed &   0 arrivals in   3.42 minutes -  10 people currently waiting
+[2262.86] 1 processed &   1 arrivals in   0.66 minutes -  10 people currently waiting
+[2263.90] 1 processed &   0 arrivals in   1.04 minutes -   9 people currently waiting
+[2263.94] 1 processed &   0 arrivals in   0.04 minutes -   8 people currently waiting
+[2265.83] 1 processed &   1 arrivals in   1.89 minutes -   8 people currently waiting
+[2266.61] 1 processed &   0 arrivals in   0.78 minutes -   7 people currently waiting
+[2273.92] 1 processed &   2 arrivals in   7.31 minutes -   8 people currently waiting
+[2275.28] 1 processed &   1 arrivals in   1.36 minutes -   8 people currently waiting
+[2278.94] 1 processed &   1 arrivals in   3.66 minutes -   8 people currently waiting
+[2288.02] 1 processed &   1 arrivals in   9.08 minutes -   8 people currently waiting
+[2288.17] 1 processed &   0 arrivals in   0.14 minutes -   7 people currently waiting
+[2288.18] 1 processed &   0 arrivals in   0.02 minutes -   6 people currently waiting
+[2293.60] 1 processed &   1 arrivals in   5.41 minutes -   6 people currently waiting
+[2294.71] 1 processed &   1 arrivals in   1.12 minutes -   6 people currently waiting
+[2298.43] 1 processed &   1 arrivals in   3.72 minutes -   6 people currently waiting
+[2300.91] 1 processed &   2 arrivals in   2.48 minutes -   7 people currently waiting
+[2303.43] 1 processed &   2 arrivals in   2.52 minutes -   8 people currently waiting
+[2316.31] 1 processed &   6 arrivals in  12.88 minutes -  13 people currently waiting
+[2319.93] 1 processed &   2 arrivals in   3.61 minutes -  14 people currently waiting
+[2322.91] 1 processed &   1 arrivals in   2.98 minutes -  14 people currently waiting
+[2327.06] 1 processed &   4 arrivals in   4.15 minutes -  17 people currently waiting
+[2327.19] 1 processed &   0 arrivals in   0.14 minutes -  16 people currently waiting
+[2328.26] 1 processed &   1 arrivals in   1.07 minutes -  16 people currently waiting
+[2334.11] 1 processed &   0 arrivals in   5.85 minutes -  15 people currently waiting
+[2334.85] 1 processed &   0 arrivals in   0.73 minutes -  14 people currently waiting
+[2335.66] 1 processed &   0 arrivals in   0.81 minutes -  13 people currently waiting
+[2339.22] 1 processed &   1 arrivals in   3.56 minutes -  13 people currently waiting
+[2343.76] 1 processed &   2 arrivals in   4.54 minutes -  14 people currently waiting
+[2350.54] 1 processed &   1 arrivals in   6.78 minutes -  14 people currently waiting
+[2350.80] 1 processed &   0 arrivals in   0.26 minutes -  13 people currently waiting
+[2350.99] 1 processed &   0 arrivals in   0.18 minutes -  12 people currently waiting
+[2352.15] 1 processed &   2 arrivals in   1.17 minutes -  13 people currently waiting
+[2353.03] 1 processed &   1 arrivals in   0.88 minutes -  13 people currently waiting
+[2353.18] 1 processed &   0 arrivals in   0.15 minutes -  12 people currently waiting
+[2353.67] 1 processed &   0 arrivals in   0.49 minutes -  11 people currently waiting
+[2354.79] 1 processed &   0 arrivals in   1.12 minutes -  10 people currently waiting
+[2356.25] 1 processed &   1 arrivals in   1.46 minutes -  10 people currently waiting
+[2358.74] 1 processed &   1 arrivals in   2.49 minutes -  10 people currently waiting
+[2361.59] 1 processed &   0 arrivals in   2.85 minutes -   9 people currently waiting
+[2362.66] 1 processed &   0 arrivals in   1.07 minutes -   8 people currently waiting
+[2364.32] 1 processed &   1 arrivals in   1.66 minutes -   8 people currently waiting
+[2372.64] 1 processed &   3 arrivals in   8.32 minutes -  10 people currently waiting
+[2372.67] 1 processed &   0 arrivals in   0.03 minutes -   9 people currently waiting
+[2373.40] 1 processed &   0 arrivals in   0.73 minutes -   8 people currently waiting
+[2376.25] 1 processed &   1 arrivals in   2.85 minutes -   8 people currently waiting
+[2378.85] 1 processed &   1 arrivals in   2.60 minutes -   8 people currently waiting
+[2379.18] 1 processed &   0 arrivals in   0.33 minutes -   7 people currently waiting
+[2379.72] 1 processed &   0 arrivals in   0.54 minutes -   6 people currently waiting
+[2380.67] 1 processed &   0 arrivals in   0.94 minutes -   5 people currently waiting
+[2380.93] 1 processed &   0 arrivals in   0.27 minutes -   4 people currently waiting
+[2382.52] 1 processed &   1 arrivals in   1.58 minutes -   4 people currently waiting
+[2386.52] 1 processed &   0 arrivals in   4.01 minutes -   3 people currently waiting
+[2387.75] 1 processed &   1 arrivals in   1.23 minutes -   3 people currently waiting
+[2389.71] 1 processed &   0 arrivals in   1.96 minutes -   2 people currently waiting
+[2395.69] 1 processed &   4 arrivals in   5.99 minutes -   5 people currently waiting
+[2395.91] 1 processed &   0 arrivals in   0.21 minutes -   4 people currently waiting
+[2399.74] 1 processed &   0 arrivals in   3.83 minutes -   3 people currently waiting
+[2399.98] 1 processed &   0 arrivals in   0.24 minutes -   2 people currently waiting
+[2410.07] 1 processed &   5 arrivals in  10.09 minutes -   6 people currently waiting
+[2418.75] 1 processed &   2 arrivals in   8.67 minutes -   7 people currently waiting
+[2423.70] 1 processed &   0 arrivals in   4.95 minutes -   6 people currently waiting
+[2424.55] 1 processed &   0 arrivals in   0.86 minutes -   5 people currently waiting
+[2427.04] 1 processed &   0 arrivals in   2.49 minutes -   4 people currently waiting
+[2429.62] 1 processed &   1 arrivals in   2.58 minutes -   4 people currently waiting
+[2432.40] 1 processed &   1 arrivals in   2.78 minutes -   4 people currently waiting
+[2440.70] 1 processed &   2 arrivals in   8.30 minutes -   5 people currently waiting
+[2442.14] 1 processed &   0 arrivals in   1.43 minutes -   4 people currently waiting
+[2449.97] 1 processed &   3 arrivals in   7.84 minutes -   6 people currently waiting
+[2450.40] 1 processed &   0 arrivals in   0.43 minutes -   5 people currently waiting
+[2451.58] 1 processed &   0 arrivals in   1.18 minutes -   4 people currently waiting
+[2458.04] 1 processed &   3 arrivals in   6.46 minutes -   6 people currently waiting
+[2461.03] 1 processed &   1 arrivals in   2.99 minutes -   6 people currently waiting
+[2461.20] 1 processed &   0 arrivals in   0.17 minutes -   5 people currently waiting
+[2461.35] 1 processed &   0 arrivals in   0.14 minutes -   4 people currently waiting
+[2462.87] 1 processed &   0 arrivals in   1.53 minutes -   3 people currently waiting
+[2463.43] 1 processed &   0 arrivals in   0.56 minutes -   2 people currently waiting
+[2467.57] 1 processed &   1 arrivals in   4.14 minutes -   2 people currently waiting
+[2475.04] 1 processed &   2 arrivals in   7.47 minutes -   3 people currently waiting
+[2482.37] 1 processed &   2 arrivals in   7.32 minutes -   4 people currently waiting
+[2483.38] 1 processed &   0 arrivals in   1.01 minutes -   3 people currently waiting
+[2488.47] 1 processed &   0 arrivals in   5.09 minutes -   2 people currently waiting
+[2488.94] 1 processed &   0 arrivals in   0.46 minutes -   1 people currently waiting
+[2491.10] 1 processed &   0 arrivals in   2.17 minutes -   0 people currently waiting
+[2499.62] 0 processed &   1 arrivals in   8.52 minutes -   1 people currently waiting
+[2503.29] 1 processed &   2 arrivals in   3.67 minutes -   2 people currently waiting
+[2504.37] 1 processed &   0 arrivals in   1.08 minutes -   1 people currently waiting
+[2510.34] 1 processed &   2 arrivals in   5.97 minutes -   2 people currently waiting
+[2510.60] 1 processed &   0 arrivals in   0.26 minutes -   1 people currently waiting
+[2512.64] 1 processed &   0 arrivals in   2.04 minutes -   0 people currently waiting
+[2523.09] 0 processed &   1 arrivals in  10.45 minutes -   1 people currently waiting
+[2524.24] 1 processed &   1 arrivals in   1.16 minutes -   1 people currently waiting
+[2528.92] 1 processed &   0 arrivals in   4.68 minutes -   0 people currently waiting
+[2533.29] 0 processed &   1 arrivals in   4.37 minutes -   1 people currently waiting
+[2534.92] 1 processed &   0 arrivals in   1.63 minutes -   0 people currently waiting
+[2535.26] 0 processed &   1 arrivals in   0.34 minutes -   1 people currently waiting
+[2539.78] 1 processed &   1 arrivals in   4.52 minutes -   1 people currently waiting
+[2540.84] 1 processed &   0 arrivals in   1.07 minutes -   0 people currently waiting
+[2546.85] 0 processed &   1 arrivals in   6.01 minutes -   1 people currently waiting
+[2559.00] 1 processed &   1 arrivals in  12.15 minutes -   1 people currently waiting
+[2559.83] 1 processed &   0 arrivals in   0.83 minutes -   0 people currently waiting
+[2562.06] 0 processed &   1 arrivals in   2.23 minutes -   1 people currently waiting
+[2562.11] 1 processed &   0 arrivals in   0.05 minutes -   0 people currently waiting
+[2562.47] 0 processed &   1 arrivals in   0.36 minutes -   1 people currently waiting
+[2564.23] 1 processed &   1 arrivals in   1.75 minutes -   1 people currently waiting
+[2565.09] 1 processed &   0 arrivals in   0.86 minutes -   0 people currently waiting
+[2566.03] 0 processed &   1 arrivals in   0.94 minutes -   1 people currently waiting
+[2567.78] 1 processed &   0 arrivals in   1.75 minutes -   0 people currently waiting
+[2569.78] 0 processed &   1 arrivals in   2.00 minutes -   1 people currently waiting
+[2570.69] 1 processed &   0 arrivals in   0.91 minutes -   0 people currently waiting
+[2571.48] 0 processed &   1 arrivals in   0.79 minutes -   1 people currently waiting
+[2576.40] 1 processed &   1 arrivals in   4.93 minutes -   1 people currently waiting
+[2577.42] 1 processed &   0 arrivals in   1.02 minutes -   0 people currently waiting
+[2577.68] 0 processed &   1 arrivals in   0.26 minutes -   1 people currently waiting
+[2577.98] 1 processed &   0 arrivals in   0.30 minutes -   0 people currently waiting
+[2578.79] 0 processed &   1 arrivals in   0.80 minutes -   1 people currently waiting
+[2580.63] 1 processed &   1 arrivals in   1.84 minutes -   1 people currently waiting
+[2580.65] 1 processed &   0 arrivals in   0.03 minutes -   0 people currently waiting
+[2580.79] 0 processed &   1 arrivals in   0.14 minutes -   1 people currently waiting
+[2585.03] 1 processed &   0 arrivals in   4.25 minutes -   0 people currently waiting
+[2590.21] 0 processed &   1 arrivals in   5.17 minutes -   1 people currently waiting
+[2592.83] 1 processed &   0 arrivals in   2.63 minutes -   0 people currently waiting
+[2595.17] 0 processed &   1 arrivals in   2.33 minutes -   1 people currently waiting
+[2598.41] 1 processed &   0 arrivals in   3.24 minutes -   0 people currently waiting
+[2598.72] 0 processed &   1 arrivals in   0.31 minutes -   1 people currently waiting
+[2600.09] 1 processed &   0 arrivals in   1.37 minutes -   0 people currently waiting
+[2601.45] 0 processed &   1 arrivals in   1.36 minutes -   1 people currently waiting
+[2601.79] 1 processed &   0 arrivals in   0.34 minutes -   0 people currently waiting
+[2607.66] 0 processed &   1 arrivals in   5.87 minutes -   1 people currently waiting
+[2611.71] 1 processed &   1 arrivals in   4.05 minutes -   1 people currently waiting
+[2612.58] 1 processed &   1 arrivals in   0.87 minutes -   1 people currently waiting
+[2614.87] 1 processed &   0 arrivals in   2.30 minutes -   0 people currently waiting
+[2616.45] 0 processed &   1 arrivals in   1.57 minutes -   1 people currently waiting
+[2620.55] 1 processed &   3 arrivals in   4.10 minutes -   3 people currently waiting
+[2623.55] 1 processed &   1 arrivals in   3.01 minutes -   3 people currently waiting
+[2631.84] 1 processed &   0 arrivals in   8.28 minutes -   2 people currently waiting
+[2641.52] 1 processed &   4 arrivals in   9.68 minutes -   5 people currently waiting
+[2643.32] 1 processed &   0 arrivals in   1.80 minutes -   4 people currently waiting
+[2649.59] 1 processed &   0 arrivals in   6.27 minutes -   3 people currently waiting
+[2653.13] 1 processed &   0 arrivals in   3.54 minutes -   2 people currently waiting
+[2656.41] 1 processed &   2 arrivals in   3.28 minutes -   3 people currently waiting
+[2658.33] 1 processed &   1 arrivals in   1.92 minutes -   3 people currently waiting
+[2661.14] 1 processed &   0 arrivals in   2.80 minutes -   2 people currently waiting
+[2661.81] 1 processed &   0 arrivals in   0.68 minutes -   1 people currently waiting
+[2662.84] 1 processed &   0 arrivals in   1.03 minutes -   0 people currently waiting
+[2669.12] 0 processed &   1 arrivals in   6.27 minutes -   1 people currently waiting
+[2670.74] 1 processed &   2 arrivals in   1.62 minutes -   2 people currently waiting
+[2674.12] 1 processed &   1 arrivals in   3.38 minutes -   2 people currently waiting
+[2678.34] 1 processed &   0 arrivals in   4.22 minutes -   1 people currently waiting
+[2683.15] 1 processed &   1 arrivals in   4.81 minutes -   1 people currently waiting
+[2683.92] 1 processed &   0 arrivals in   0.78 minutes -   0 people currently waiting
+[2689.48] 0 processed &   1 arrivals in   5.56 minutes -   1 people currently waiting
+[2689.79] 1 processed &   0 arrivals in   0.31 minutes -   0 people currently waiting
+[2690.83] 0 processed &   1 arrivals in   1.04 minutes -   1 people currently waiting
+[2690.90] 1 processed &   0 arrivals in   0.07 minutes -   0 people currently waiting
+[2691.69] 0 processed &   1 arrivals in   0.79 minutes -   1 people currently waiting
+[2692.80] 1 processed &   0 arrivals in   1.12 minutes -   0 people currently waiting
+[2696.51] 0 processed &   1 arrivals in   3.71 minutes -   1 people currently waiting
+[2703.59] 1 processed &   3 arrivals in   7.08 minutes -   3 people currently waiting
+[2704.59] 1 processed &   0 arrivals in   1.00 minutes -   2 people currently waiting
+[2704.80] 1 processed &   0 arrivals in   0.21 minutes -   1 people currently waiting
+[2705.75] 1 processed &   0 arrivals in   0.95 minutes -   0 people currently waiting
+[2709.48] 0 processed &   1 arrivals in   3.73 minutes -   1 people currently waiting
+[2713.35] 1 processed &   0 arrivals in   3.87 minutes -   0 people currently waiting
+[2714.57] 0 processed &   1 arrivals in   1.22 minutes -   1 people currently waiting
+[2718.58] 1 processed &   2 arrivals in   4.01 minutes -   2 people currently waiting
+[2725.09] 1 processed &   2 arrivals in   6.51 minutes -   3 people currently waiting
+[2730.25] 1 processed &   0 arrivals in   5.16 minutes -   2 people currently waiting
+[2744.52] 1 processed &   3 arrivals in  14.27 minutes -   4 people currently waiting
+[2744.74] 1 processed &   0 arrivals in   0.22 minutes -   3 people currently waiting
+[2754.26] 1 processed &   2 arrivals in   9.52 minutes -   4 people currently waiting
+[2758.76] 1 processed &   1 arrivals in   4.50 minutes -   4 people currently waiting
+[2762.51] 1 processed &   1 arrivals in   3.75 minutes -   4 people currently waiting
+[2763.17] 1 processed &   0 arrivals in   0.67 minutes -   3 people currently waiting
+[2765.74] 1 processed &   0 arrivals in   2.57 minutes -   2 people currently waiting
+[2767.53] 1 processed &   0 arrivals in   1.79 minutes -   1 people currently waiting
+[2768.41] 1 processed &   1 arrivals in   0.88 minutes -   1 people currently waiting
+[2768.97] 1 processed &   0 arrivals in   0.56 minutes -   0 people currently waiting
+[2772.48] 0 processed &   1 arrivals in   3.51 minutes -   1 people currently waiting
+[2776.30] 1 processed &   1 arrivals in   3.82 minutes -   1 people currently waiting
+[2780.63] 1 processed &   2 arrivals in   4.33 minutes -   2 people currently waiting
+[2781.86] 1 processed &   0 arrivals in   1.23 minutes -   1 people currently waiting
+[2785.08] 1 processed &   1 arrivals in   3.22 minutes -   1 people currently waiting
+[2785.47] 1 processed &   0 arrivals in   0.39 minutes -   0 people currently waiting
+[2788.70] 0 processed &   1 arrivals in   3.22 minutes -   1 people currently waiting
+[2788.78] 1 processed &   0 arrivals in   0.09 minutes -   0 people currently waiting
+[2790.23] 0 processed &   1 arrivals in   1.45 minutes -   1 people currently waiting
+[2790.44] 1 processed &   1 arrivals in   0.21 minutes -   1 people currently waiting
+[2792.34] 1 processed &   0 arrivals in   1.90 minutes -   0 people currently waiting
+[2799.29] 0 processed &   1 arrivals in   6.95 minutes -   1 people currently waiting
+[2802.00] 1 processed &   2 arrivals in   2.72 minutes -   2 people currently waiting
+[2805.44] 1 processed &   0 arrivals in   3.44 minutes -   1 people currently waiting
+[2811.20] 1 processed &   2 arrivals in   5.76 minutes -   2 people currently waiting
+[2811.56] 1 processed &   0 arrivals in   0.35 minutes -   1 people currently waiting
+[2812.18] 1 processed &   0 arrivals in   0.62 minutes -   0 people currently waiting
+[2814.64] 0 processed &   1 arrivals in   2.46 minutes -   1 people currently waiting
+[2814.74] 1 processed &   1 arrivals in   0.10 minutes -   1 people currently waiting
+[2818.72] 1 processed &   0 arrivals in   3.98 minutes -   0 people currently waiting
+[2819.51] 0 processed &   1 arrivals in   0.79 minutes -   1 people currently waiting
+[2821.41] 1 processed &   0 arrivals in   1.91 minutes -   0 people currently waiting
+[2822.90] 0 processed &   1 arrivals in   1.49 minutes -   1 people currently waiting
+[2823.94] 1 processed &   0 arrivals in   1.03 minutes -   0 people currently waiting
+[2825.25] 0 processed &   1 arrivals in   1.32 minutes -   1 people currently waiting
+[2825.63] 1 processed &   0 arrivals in   0.38 minutes -   0 people currently waiting
+[2835.09] 0 processed &   1 arrivals in   9.46 minutes -   1 people currently waiting
+[2835.73] 1 processed &   0 arrivals in   0.64 minutes -   0 people currently waiting
+[2839.15] 0 processed &   1 arrivals in   3.42 minutes -   1 people currently waiting
+[2839.63] 1 processed &   0 arrivals in   0.49 minutes -   0 people currently waiting
+[2840.30] 0 processed &   1 arrivals in   0.67 minutes -   1 people currently waiting
+[2841.92] 1 processed &   2 arrivals in   1.62 minutes -   2 people currently waiting
+[2849.25] 1 processed &   1 arrivals in   7.33 minutes -   2 people currently waiting
+[2849.46] 1 processed &   0 arrivals in   0.20 minutes -   1 people currently waiting
+[2852.70] 1 processed &   0 arrivals in   3.25 minutes -   0 people currently waiting
+[2853.45] 0 processed &   1 arrivals in   0.75 minutes -   1 people currently waiting
+[2863.25] 1 processed &   4 arrivals in   9.79 minutes -   4 people currently waiting
+[2863.46] 1 processed &   0 arrivals in   0.21 minutes -   3 people currently waiting
+[2868.31] 1 processed &   4 arrivals in   4.85 minutes -   6 people currently waiting
+[2872.72] 1 processed &   1 arrivals in   4.41 minutes -   6 people currently waiting
+[2876.62] 1 processed &   0 arrivals in   3.90 minutes -   5 people currently waiting
+[2883.54] 1 processed &   1 arrivals in   6.93 minutes -   5 people currently waiting
+
+Arrivals simulated:        931
+Average patients per hour: 19.40
+Patients processed:        926
+Average processing time:   2.85

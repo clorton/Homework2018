@@ -1,0 +1,18 @@
+# Python
+*.pyc
+.idea/
+
+# Visual Studio
+*.suo
+*.user
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.obj
+*.pch
+*.pdb
+ipch/
+*.sdf
