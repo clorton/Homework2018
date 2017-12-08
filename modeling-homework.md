@@ -6,7 +6,7 @@ A local medical facility wants a model of arriving and processed patients. They 
 
 ## Analyze the arrival and departure data, preferably in Python:
 
-Process the output from your C++ simulation to analyze the patient arrival and departure information and state of the waiting room occupancy. The time scale of the analysis should be configurable, e.g. analyze in 5-minute spans, 15-minute spans, or 60 minute spans. The facility sees patients in 4-hour chunks (e.g. 8am – noon and 1:00pm – 5:00pm). Using your model, determine the number of chairs required in the waiting room if the facility sees, on average, 20 patients arriving per hour and processes a patient every 3 minutes, on average, so that the waiting room fills up no more than once every two weeks (20 4-hour chunks). (Visual Studio also support Python projects.)
+Process the output from your C++ simulation to analyze the patient arrival and departure information and state of the waiting room occupancy. The time scale of the analysis should be configurable, e.g. analyze in 5-minute spans, 15-minute spans, or 60 minute spans. The facility sees patients in 4-hour chunks (e.g. 8am – noon and 1:00pm – 5:00pm). Using your model, determine the number of chairs required in the waiting room if the facility sees, on average, 20 patients arriving per hour and processes a patient every 3 minutes, on average, so that the waiting room fills up no more than once every two weeks (20 4-hour chunks). (Visual Studio also supports Python projects.)
 
 ## Model the waiting room, preferably in C++:
 
